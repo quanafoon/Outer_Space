@@ -3,6 +3,7 @@
 An astronaut is travelling through space after his spacecraft malfunctioned, in an attempt to reach back to earth. The astronaut has a special gun that shoots different kinds of projectiles using materials collected. These materials are floating around space and different projectiles require a different amount of materials obtained. The astronaut must evade or shoot monsters and asteroids, to stay alive. The speed of the game increases periodically over time.
 
 ## How to play
+
 ### Movement 
 - Move the astronaut with the arrow keys ←→↑↓. 
 - The astronaut is always floating around space, either going up or down, but always forward.
@@ -10,9 +11,9 @@ An astronaut is travelling through space after his spacecraft malfunctioned, in 
 - Pressing ↑↓. Switches direction between up or down, respectively.
 
 ### Shooting Projectiles
-Fire projectiles using Q and W. Q fires Lightning and W fires Fire.
-Lightning quickly shoots down any monster in a narrow line.
-Fire slowly moves across the screen and destroys both monsters and asteroids upon contact.
+- Fire projectiles using Q and W. Q fires Lightning and W fires Fire.
+- Lightning quickly shoots down any monster in a narrow line.
+- Fire slowly moves across the screen and destroys both monsters and asteroids upon contact.
 
 
 ### Health
