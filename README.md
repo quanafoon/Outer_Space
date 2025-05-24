@@ -1,6 +1,7 @@
 # Outer Space
 
 An astronaut is travelling through space after his spacecraft malfunctioned, in an attempt to reach back to earth. The astronaut has a special gun that shoots different kinds of projectiles using materials collected. These materials are floating around space and different projectiles require a different amount of materials obtained. The astronaut must evade or shoot monsters and asteroids, to stay alive. The speed of the game increases periodically over time.
+Downloader - https://quanafoon.github.io/Outer_Space_Downloader/
 
 ## How to play
 
